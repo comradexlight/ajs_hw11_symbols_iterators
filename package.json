@@ -1,5 +1,9 @@
 {
   "name": "ajs_hw11_symbols_iterators",
+  "jest":
+    {
+     "coveragePathIgnorePatterns": ["./src/js/Character.js"]
+    },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
